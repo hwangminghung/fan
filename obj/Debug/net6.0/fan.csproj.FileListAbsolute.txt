@@ -1,0 +1,15 @@
+D:\Unity codegym\CtoF\fan\bin\Debug\net6.0\fan.exe
+D:\Unity codegym\CtoF\fan\bin\Debug\net6.0\fan.deps.json
+D:\Unity codegym\CtoF\fan\bin\Debug\net6.0\fan.runtimeconfig.json
+D:\Unity codegym\CtoF\fan\bin\Debug\net6.0\fan.dll
+D:\Unity codegym\CtoF\fan\bin\Debug\net6.0\fan.pdb
+D:\Unity codegym\CtoF\fan\obj\Debug\net6.0\fan.csproj.AssemblyReference.cache
+D:\Unity codegym\CtoF\fan\obj\Debug\net6.0\fan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity codegym\CtoF\fan\obj\Debug\net6.0\fan.AssemblyInfoInputs.cache
+D:\Unity codegym\CtoF\fan\obj\Debug\net6.0\fan.AssemblyInfo.cs
+D:\Unity codegym\CtoF\fan\obj\Debug\net6.0\fan.csproj.CoreCompileInputs.cache
+D:\Unity codegym\CtoF\fan\obj\Debug\net6.0\fan.dll
+D:\Unity codegym\CtoF\fan\obj\Debug\net6.0\refint\fan.dll
+D:\Unity codegym\CtoF\fan\obj\Debug\net6.0\fan.pdb
+D:\Unity codegym\CtoF\fan\obj\Debug\net6.0\fan.genruntimeconfig.cache
+D:\Unity codegym\CtoF\fan\obj\Debug\net6.0\ref\fan.dll
